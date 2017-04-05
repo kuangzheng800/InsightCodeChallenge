@@ -5,8 +5,9 @@ by Zheng Kuang, April 5, 2017
 Python 3.5
 
 # Dependencies
-import pandas as pd
-import numpy as np
-import re
-import codecs
-import datetime
+numpy, 
+re, 
+pandas.Series, 
+pandas.DataFrame, 
+codecs, 
+datetime
